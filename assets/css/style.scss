@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul.projects-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul.projects-list li a {
+  float: left;
+  width: 150px;
+  height: 50px;
+  border: 1px solid #aaa;
+  padding: 158px 9px 16px 9px;
+  margin: 10px 20px 10px 0;
+  text-decoration: none;
+  text-align: center;
+  line-height: 1.5em;
+  position: relative;
+}
+
+ul.projects-list li a .img-container {
+	position: absolute;
+  top: 19px;
+	left: 19px;
+	border: 2px solid #333;
+	width: 128px;
+	height: 128px;
+} 
+
+ul.projects-list li a .img-container img {
+	margin: 0;
+	border: none;
+	padding: 0;
+}
+
+figure img {
+  margin: 10px 0;
+}
+
+figure figcaption {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.post-tags {
+  font-size: 90%;
+}

@@ -1,0 +1,15 @@
+title: yarienkiva
+description: Un blog un peu moins en construction
+baseurl: ""
+url: https://yarienkia.github.io
+twitter_username: yarienkiva
+github_username:  yarienkiva
+
+# Build settings
+markdown: kramdown
+# theme: minima
+theme: jekyll-theme-dinky
+plugins:
+  - jekyll-feed
+
+repository: yarienkiva/yarienkiva.github.io
