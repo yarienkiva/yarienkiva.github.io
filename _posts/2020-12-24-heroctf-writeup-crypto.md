@@ -1,16 +1,8 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-
-  - Blog
-
-tags:
-
-  - HeroCTF
-  - Crypto
-  - RSA
-
+layout: post
+title: "HeroCTF - Writeups for my crypto challenges"
+date: 2016-03-09T16:20:02-05:00
+tags: [HeroCTF, Crypto, RSA]
 ---
 
 Last year I got to participate as a special guest in a CTF (Capture the Flag) organized by our university's student office. I scored 6th out of 45~ participants *and I'm still pissed that python2 and python3 don't encode characters the same way otherwhise I'd have solved that damn buffer overflow*. I've digressed slightly. Since I'm also part of the student office the organizers took me in this year as a challenge maker and tester. Sadly I didn't have time to finish two really cool programming challenges I'd started working on but I still managed to publish two cryptography tasks. Here are the writeups for them.
