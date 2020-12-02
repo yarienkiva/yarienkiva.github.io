@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bouncing bars with java threading"
-date: 2016-03-09T16:20:02-05:00
+date: 2020-11-27 08:00:00 +0200
 tags:[Java, algorithms, bouncing bars, threading]
 ---
 
