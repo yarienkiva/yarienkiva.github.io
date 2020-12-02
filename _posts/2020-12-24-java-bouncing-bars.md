@@ -2,7 +2,7 @@
 layout: post
 title: "Bouncing bars with java threading"
 date: 2020-11-27 08:00:00 +0200
-tags:[Java, algorithms, bouncing bars, threading]
+tags: [Java, algorithms, bouncing bars, threading]
 ---
 
 As an assignment during a course on "[Operating Systems](http://m3101.parlenet.org/_media/m3101-stud.pdf)" (p. 73) we had to recreate in Java a popular program : the bouncing balls. It's great to teach common concepts in Java like making GUIs with `javax.swing` or `javafx`, using multi-threading with the `Thread` and `Runnable` classes and using other commonly used classes.
